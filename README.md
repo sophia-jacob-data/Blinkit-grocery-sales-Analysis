@@ -71,17 +71,16 @@ Performed in **Power Query (Power BI)** and Excel:
 
 ## Dashboard Preview
 
-*(Insert your Power BI dashboard screenshot here)*  
-`Screenshot 2025-07-13 002645.png`
-`Screenshot 2025-07-13 005149.png`
+**Dashboard View:** `Blinkit dashboard preview. png`
+**Dataset View:** `Data set preview. png`
 
 ---
 
 ## Files Included
 
-- `BlinkIT Grocery Data.xlsx` – Cleaned transactional dataset  
-- `Blinkit Project.pbix` – Full Power BI dashboard  
-- `README.md` – This documentation file
+- `Blinkit grocery data set.xlsx` – Transactional dataset  
+- `Blinkit sales analysis.pbix` – Full Power BI dashboard  
+- `README.md` – The documentation file
 
 ---
 
